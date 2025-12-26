@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=👋%20Hey,%20I'm%20Amay%20Sarve&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 MERN Stack Developer | GenAI Enthusiast
+### 🚀 MERN Stack Developer
 
 <img src="https://komarev.com/ghpvc/?username=amaysarve5&label=Profile%20views&color=667eea&style=for-the-badge" alt="Profile Views" />
 
